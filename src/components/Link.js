@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 
 
-class Link extends React.Fragment {
+class Link extends React.Component {
   render() {
     return(
       <button
